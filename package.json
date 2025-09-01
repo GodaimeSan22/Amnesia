@@ -1,7 +1,9 @@
 {
   "name": "amnesia-tarot",
   "version": "1.0.0",
-  "description": "Simple tarot reading site using local card images",
+
+  "description": "Simple tarot reading site using public card images",
+
   "scripts": {
     "start": "npx serve .",
     "test": "echo 'No tests specified'"

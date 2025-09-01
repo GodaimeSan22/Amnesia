@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Дурень",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_00_Fool.jpg",
+    "meaning": "Новий початок, свобода"
+  },
+  {
+    "name": "Маг",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RWS_Tarot_01_Magician.jpg",
+    "meaning": "Воля, прояв задумів"
+  },
+  {
+    "name": "Жриця",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg",
+    "meaning": "Інтуїція, внутрішнє знання"
+  },
+  {
+    "name": "Імператриця",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg",
+    "meaning": "Плідність, творчість"
+  },
+  {
+    "name": "Імператор",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg",
+    "meaning": "Структура, авторитет"
+  },
+  {
+    "name": "Ієрофант",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_05_Hierophant.jpg",
+    "meaning": "Традиції, духовний наставник"
+  },
+  {
+    "name": "Закохані",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_06_Lovers.jpg",
+    "meaning": "Вибір, партнерство"
+  },
+  {
+    "name": "Колісниця",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_07_Chariot.jpg",
+    "meaning": "Перемога, рішучість"
+  },
+  {
+    "name": "Сила",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg",
+    "meaning": "Внутрішня міць, сміливість"
+  },
+  {
+    "name": "Відлюдник",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_09_Hermit.jpg",
+    "meaning": "Самотність, пошук мудрості"
+  },
+  {
+    "name": "Колесо Фортуни",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "meaning": "Цикли, змінність"
+  },
+  {
+    "name": "Справедливість",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_11_Justice.jpg",
+    "meaning": "Баланс, закон"
+  },
+  {
+    "name": "Повішений",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_12_Hanged_Man.jpg",
+    "meaning": "Пауза, новий погляд"
+  },
+  {
+    "name": "Смерть",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_13_Death.jpg",
+    "meaning": "Кінець, трансформація"
+  },
+  {
+    "name": "Помірність",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_14_Temperance.jpg",
+    "meaning": "Гармонія, терпіння"
+  },
+  {
+    "name": "Диявол",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_15_Devil.jpg",
+    "meaning": "Спокуса, прив'язаність"
+  },
+  {
+    "name": "Вежа",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_16_Tower.jpg",
+    "meaning": "Руйнування, прозріння"
+  },
+  {
+    "name": "Зірка",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_17_Star.jpg",
+    "meaning": "Надія, натхнення"
+  },
+  {
+    "name": "Місяць",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_18_Moon.jpg",
+    "meaning": "Ілюзії, підсвідомість"
+  },
+  {
+    "name": "Сонце",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_19_Sun.jpg",
+    "meaning": "Ясність, успіх"
+  },
+  {
+    "name": "Суд",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_20_Judgement.jpg",
+    "meaning": "Пробудження, оцінка"
+  },
+  {
+    "name": "Світ",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_21_World.jpg",
+    "meaning": "Завершення, цілісність"
+  },
+  {
+    "name": "Туз Кубків",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Cups01.jpg",
+    "meaning": "Емоційний початок"
+  },
+  {
+    "name": "Двійка Кубків",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Cups02.jpg",
+    "meaning": "Партнерство, союз"
+  },
+  {
+    "name": "Трійка Кубків",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Cups03.jpg",
+    "meaning": "Святкування, спільнота"
+  },
+  {
+    "name": "Четвірка Кубків",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Cups04.jpg",
+    "meaning": "Апатія, переоцінка"
+  },
+  {
+    "name": "П'ятірка Кубків",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Cups05.jpg",
+    "meaning": "Втрати, жалоба"
+  },
+  {
+    "name": "Шістка Кубків",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Cups06.jpg",
+    "meaning": "Спогади, ностальгія"
+  },
+  {
+    "name": "Сімка Кубків",
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Cups07.jpg",
+    "meaning": "Фантазії, варіанти"
+  }
+]
