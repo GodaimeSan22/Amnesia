@@ -1,6 +1,5 @@
 # Amnesia
 
-Simple static site that lets you draw a three-card tarot reading using public Rider-Waite images.
 
 ## Usage
 
